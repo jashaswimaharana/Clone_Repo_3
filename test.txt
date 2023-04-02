@@ -1,2 +1,3 @@
 test file for merging into master
 adding another line
+merge conflict
