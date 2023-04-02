@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 test file for merging into master
 adding another line
 merge conflict in git
+=======
+hello this is a file in master
+
+trying to merge into master from test
+>>>>>>> test
